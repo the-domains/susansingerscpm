@@ -1,0 +1,28 @@
+name: SusanSingerSCPM
+favicon: null
+layout_spectrum: 0.6542747402563691
+typography_spectrum: 0.5448159018997103
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.195596951758489
+  lightness: 0.5863626203499734
+  saturation: 0.9350602601189166
+  rhythmicContrast: 0.26775764115154743
+purpose: []
