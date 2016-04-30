@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-30T20:35:08.181Z'
-dateModified: '2016-04-30T20:35:01.835Z'
-title: Governance
+datePublished: '2016-04-30T21:46:30.910Z'
+dateModified: '2016-04-30T21:42:22.658Z'
+title: ''
 author: []
+sourcePath: _posts/2016-04-30-governance.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,14 +18,10 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-30-governance.md
-published: true
 url: governance/index.html
 _type: Article
 
 ---
-## Governance
-
 * Articulating the policy and strategy direction of organizations, establishing performance metrics, and ensuring over all accountability.
 * Drafting bylaws, administrative procedures, strategic plans, policy and position statements and similar documents.
 * Managing effective relationships with boards of directors, corporate officers, committees and other governing bodies.
