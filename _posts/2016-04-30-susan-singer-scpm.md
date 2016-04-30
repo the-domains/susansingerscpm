@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: Helps clients improve their operations management processes and policies so that they advance their organizational missions.
-datePublished: '2016-04-30T22:23:29.099Z'
-dateModified: '2016-04-30T22:06:42.055Z'
+datePublished: '2016-04-30T22:33:06.533Z'
+dateModified: '2016-04-30T22:33:05.967Z'
 title: ''
 author:
   - name: ''
