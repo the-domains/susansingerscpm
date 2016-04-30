@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Susan Singer, SCPM... '
-datePublished: '2016-04-30T20:18:33.153Z'
-dateModified: '2016-04-30T20:18:06.237Z'
+datePublished: '2016-04-30T20:27:44.294Z'
+dateModified: '2016-04-30T20:26:16.047Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-30-susan-singer-scpm.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-30-susan-singer-scpm.md
-published: true
+starred: true
 url: susan-singer-scpm/index.html
 _type: Article
 
