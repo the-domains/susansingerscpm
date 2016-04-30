@@ -1,12 +1,12 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
 inLanguage: null
 keywords: []
 description: Helps clients improve their operations management processes and policies so that they advance their organizational missions.
-datePublished: '2016-04-30T21:47:21.228Z'
-dateModified: '2016-04-30T21:47:14.517Z'
+datePublished: '2016-04-30T22:00:59.697Z'
+dateModified: '2016-04-30T21:59:49.641Z'
 title: ''
 author:
   - name: ''
@@ -20,8 +20,7 @@ publisher:
   url: null
   favicon: null
 starred: true
-url: susan-singer-scpm/index.html
-_type: Article
+_type: Blurb
 
 ---
 Helps clients improve their **operations management **processes and policies so that they advance their organizational missions.
