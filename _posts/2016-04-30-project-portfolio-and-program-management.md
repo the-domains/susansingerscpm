@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-30T20:37:31.661Z'
-dateModified: '2016-04-30T20:37:20.735Z'
-title: 'Project, Portfolio and Program Management'
+datePublished: '2016-04-30T21:46:09.051Z'
+dateModified: '2016-04-30T21:46:00.282Z'
+title: ''
 author: []
+sourcePath: _posts/2016-04-30-project-portfolio-and-program-management.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,14 +18,10 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-30-project-portfolio-and-program-management.md
-published: true
 url: project-portfolio-and-program-management/index.html
 _type: Article
 
 ---
-## Project, Portfolio and Program Management
-
 * Providing project management services on a contract basis, including liaising with senior stakeholders.
 * Guiding and increasing the efficiency of project, portfolio and program management teams.
 * Establishing PMOs
