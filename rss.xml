@@ -4,7 +4,7 @@
         <description><![CDATA[Susan Singer SCPM]]></description>
         <link>https://thegrid.ai/susansingerscpm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 21:46:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 21:46:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/susansingerscpm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Susan Singer, SCPM]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/susansingerscpm/susan-singer-scpm/index.html</link>
             <guid isPermaLink="false">7372ab0b-40fc-4210-b5f6-991731da4311</guid>
             <pubDate>Sat, 30 Apr 2016 21:44:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Governance]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6393ba7d-4d52-422c-a519-bde80e247895.jpg">]]></description>
+            <link>https://thegrid.ai/susansingerscpm/governance/index.html</link>
+            <guid isPermaLink="false">9c545c9e-c764-4aea-b17a-12fb61491bc9</guid>
+            <pubDate>Sat, 30 Apr 2016 21:46:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Project, Portfolio and Program Management]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/susansingerscpm/8ab93dba-174c-4c34-b7ed-a8c1f7ec6a71/index.html</link>
             <guid isPermaLink="false">8ab93dba-174c-4c34-b7ed-a8c1f7ec6a71</guid>
             <pubDate>Sat, 30 Apr 2016 21:45:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Governance]]></title>
-            <description><![CDATA[<article><h1>Governance</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6393ba7d-4d52-422c-a519-bde80e247895.jpg"></article>]]></description>
-            <link>https://thegrid.ai/susansingerscpm/governance/index.html</link>
-            <guid isPermaLink="false">9c545c9e-c764-4aea-b17a-12fb61491bc9</guid>
-            <pubDate>Sat, 30 Apr 2016 20:35:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
