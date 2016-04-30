@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-30T21:46:30.910Z'
-dateModified: '2016-04-30T21:42:22.658Z'
+datePublished: '2016-04-30T22:08:55.480Z'
+dateModified: '2016-04-30T22:08:38.689Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-30-governance.md
 published: true
 authors: []
