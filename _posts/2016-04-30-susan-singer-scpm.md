@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Helps clients improve their operations management processes and policies so that they advance their organizational missions.
-datePublished: '2016-04-30T22:04:56.827Z'
-dateModified: '2016-04-30T22:01:07.333Z'
+datePublished: '2016-04-30T22:05:54.083Z'
+dateModified: '2016-04-30T22:04:57.925Z'
 title: ''
 author:
   - name: ''
@@ -23,6 +23,8 @@ starred: true
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94093ae2-40ed-441b-8741-88ca75a819a9.jpg)
+
 Helps clients improve their **operations management **processes and policies so that they advance their organizational missions.
 
 She's a **Governance **professional who crafts policy and position statements, helps shape and direct organizations' strategic direction, and achieves effective working relationships with corporate officers, boards of directors and other governing bodies.
@@ -35,4 +37,3 @@ Clientele include:
 * 527 Political concerns, as well as candidates and legislative advocacy
 * 501(c)(5) Labor Organizations
 * Variety of public and private sector companies, start-ups, advocacy groups and "one-off" projects
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94093ae2-40ed-441b-8741-88ca75a819a9.jpg)
