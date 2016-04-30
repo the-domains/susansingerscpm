@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Helps clients improve theiroperations managementprocesses and policies so that they advance their organizational missions. '
-datePublished: '2016-04-30T21:44:32.947Z'
-dateModified: '2016-04-30T21:44:31.893Z'
+description: Helps clients improve their operations management processes and policies so that they advance their organizational missions.
+datePublished: '2016-04-30T21:47:21.228Z'
+dateModified: '2016-04-30T21:47:14.517Z'
 title: ''
 author:
   - name: ''
@@ -24,11 +24,11 @@ url: susan-singer-scpm/index.html
 _type: Article
 
 ---
-Helps clients improve their**operations management**processes and policies so that they advance their organizational missions.
+Helps clients improve their **operations management **processes and policies so that they advance their organizational missions.
 
-She's a**Governance**professional who crafts policy and position statements, helps shape and direct organizations' strategic direction, and achieves effective working relationships with corporate officers, boards of directors and other governing bodies.
+She's a **Governance **professional who crafts policy and position statements, helps shape and direct organizations' strategic direction, and achieves effective working relationships with corporate officers, boards of directors and other governing bodies.
 
-A Stanford-certified**P****roject Manager**(SCPM), Susan provides project and program management services on a contract basis and can assist organizations with the establishment of their PMOs.
+A Stanford-certified **P****roject Manager **(SCPM), Susan provides project and program management services on a contract basis and can assist organizations with the establishment of their PMOs.
 
 Clientele include:
 
