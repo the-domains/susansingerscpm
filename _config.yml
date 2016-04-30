@@ -1,6 +1,6 @@
 name: Susan Singer SCPM
 favicon: null
-layout_spectrum: 0.88358
+layout_spectrum: 0.8756
 typography_spectrum: 0.5448159018997103
 title: Susan Singer SCPM
 cta:
@@ -22,7 +22,7 @@ color:
     - '#010101'
     - '#725ea5'
     - '#e26a4f'
-  brandStrength: 0.1875
+  brandStrength: 0.125
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
