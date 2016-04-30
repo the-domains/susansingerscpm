@@ -1,4 +1,4 @@
-name: SusanSingerSCPM
+name: Susan Singer SCPM
 favicon: null
 layout_spectrum: 0.6542747402563691
 typography_spectrum: 0.5448159018997103
@@ -22,8 +22,8 @@ color:
     - '#010101'
     - '#725ea5'
     - '#e26a4f'
-  brandStrength: 0.5
-  lightness: 0.5863626203499734
-  saturation: 0.9350602601189166
-  rhythmicContrast: 0.26775764115154743
+  brandStrength: 0.75
+  lightness: 0.375
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
