@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Susan Singer, SCPM... '
-datePublished: '2016-04-30T20:51:43.998Z'
-dateModified: '2016-04-30T20:44:48.042Z'
+datePublished: '2016-04-30T20:54:01.911Z'
+dateModified: '2016-04-30T20:53:52.853Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-30-susan-singer-scpm.md
@@ -18,8 +19,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-url: susan-singer-scpm/index.html
-_type: Article
+_type: Blurb
 
 ---
 **Susan Singer, SCPM**... 
