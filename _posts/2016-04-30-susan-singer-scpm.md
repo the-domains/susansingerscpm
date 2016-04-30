@@ -2,11 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: Helps clients improve their operations management processes and policies so that they advance their organizational missions.
-datePublished: '2016-04-30T22:05:54.083Z'
-dateModified: '2016-04-30T22:04:57.925Z'
+datePublished: '2016-04-30T22:23:29.099Z'
+dateModified: '2016-04-30T22:06:42.055Z'
 title: ''
 author:
   - name: ''
@@ -23,7 +24,7 @@ starred: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94093ae2-40ed-441b-8741-88ca75a819a9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a7ab6a41ad43362f689a8343748a6de10d7cb1b.jpg)
 
 Helps clients improve their **operations management **processes and policies so that they advance their organizational missions.
 
